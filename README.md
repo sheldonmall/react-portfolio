@@ -1,68 +1,50 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## React Portfolio assignment
 
-In the project directory, you can run:
+## Installation
 
-### `npm start`
+In order to run my portfolio, install the following dependancies:
+`$npm i react react-bootstrap react-dom react-router-dom` 
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Usage 
 
-### `npm test`
+The Home page of my website loads when launched. This is the landing page that shows a navigation bar on the top. These are the option available on the navigation bar:
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Home: This link shows introduction about me.  
+* About Me: This link takes you to tha page that details my experience in the software and applications industry.  
+* Projects: This link takes you to the page that shows the projects I have worked on and deployed. Currently this page shows the RPS code we are developing (link is not *live* yet). 
+* Contact Me: This link will take you to the page that shows different ways how you can contact me, namely email, my Github account, my LinkedIn profile and my contact phone number.
 
-### `npm run build`
+My Task list for developing this website:
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[x] Building website
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+[x] Testing all links
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[ ] User testing
 
-### `npm run eject`
+[ ] User feedback 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Credits
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+There are no contributors to this project.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+However, I have used templates and contructs from different activites we have done so far in this program. In fact, I had been working on a personal website since the beginning of the program and had been revising it with each new concept and feature we had learning.
 
-## Learn More
+I have used **Bootstrap CDN** as well as referenced the `reset.css` and `style.css` that have been available to us as part of this program.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License
 
-### Code Splitting
+There is no need for any license at the moment to use my website.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## Tests
 
-### Making a Progressive Web App
+My React portfolio website is simple to use. I have tested it throughly to ensure all links work and the website is responsive to different screen sizes. 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Do let me know if you come across any errors while testing or browsing my website. I will appreciate all and any feedback too!
